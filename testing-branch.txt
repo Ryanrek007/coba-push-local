@@ -4,4 +4,4 @@ ini merupakan contoh testing  create new branche
 - ini baru lagi
 - contoh tambahan ketika terdapat conflict
   1. coba-fitur1 -hehe
-  2. nambah contoh lain -hehe
+  2. ini untuk fitur 2B cuy, aye  ini merupakan setlah di resolve -hehe
