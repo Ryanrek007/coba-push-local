@@ -2,3 +2,4 @@ ini merupakan contoh testing  create new branche
 - ini merupakan branch baru, ahay
 - testing terbaru
 - ini baru lagi
+- contoh tambahan ketika terdapat conflict
